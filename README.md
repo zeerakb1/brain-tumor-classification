@@ -1,5 +1,5 @@
 
-# Brain Tumor Classification with VGG19
+# Brain Tumor Image Classification with VGG19
 
 This project focuses on the prediction of brain tumors using MRI images. It leverages the power of deep learning, specifically the VGG19 model, to classify images as either having a brain tumor or not. The VGG19 model, pre-trained on the ImageNet dataset, is known for its robustness and high performance in image recognition tasks.
 

@@ -8,7 +8,7 @@ This project focuses on the prediction of brain tumors using MRI images. It leve
 - **Data Preprocessing**: Utilizes OpenCV for image processing, including conversion to grayscale, Gaussian blur, thresholding, erosion, and dilation.
 - **Data Augmentation**: Employs `ImageDataGenerator` to enhance the training dataset, helping the model generalize better.
 - **VGG19 Model**: Utilizes the VGG19 architecture pre-trained on ImageNet, fine-tuned for the task of brain tumor classification.
-- **High Accuracy**: Achieves an accuracy of approximately 89.1% on the test dataset.
+- **High Accuracy**: Achieves an accuracy of approximately 89.54% on the test dataset.
 
 ## Setup Instructions
 
